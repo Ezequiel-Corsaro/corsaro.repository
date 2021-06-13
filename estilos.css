@@ -370,6 +370,30 @@ ul {
 .card:nth-child(4):before {
   background-image: url(https://i.imgur.com/BnvmNsu.jpg); }
 
+.card:nth-child(5):before {
+  background-image: url(https://i.imgur.com/yBTfm7q.jpg); }
+
+.card:nth-child(6):before {
+  background-image: url(https://i.imgur.com/fOi9YH6.jpg); }
+
+.card:nth-child(7):before {
+  background-image: url(https://i.imgur.com/yzRMUga.jpg); }    
+      
+.card:nth-child(8):before {
+  background-image: url(https://i.imgur.com/DUhd5p3.jpg); }
+        
+.card:nth-child(9):before {
+  background-image: url(https://i.imgur.com/g7UFUGR.jpg); }
+          
+.card:nth-child(10):before {
+  background-image: url(https://i.imgur.com/wHDjc51.jpg); }
+            
+.card:nth-child(11):before {
+  background-image: url(https://i.imgur.com/ZIMs7xl.jpg); }
+              
+.card:nth-child(12):before {
+  background-image: url(https://i.imgur.com/KYisE92.jpg); }
+
 .content {
   position: relative;
   display: flex;
